@@ -1,0 +1,37 @@
+{
+ "Perceptron \u00b7 Fashion-MNIST": {
+  "train": 87.818,
+  "val": 85.1,
+  "test": 83.84
+ },
+ "Perceptron \u00b7 Rice": {
+  "train": 99.165979,
+  "val": 99.285125,
+  "test": 99.092659
+ },
+ "SVM \u00b7 Fashion-MNIST": {
+  "train": 86.998,
+  "val": 85.29,
+  "test": 84.4
+ },
+ "SVM \u00b7 Rice": {
+  "train": 99.862524,
+  "val": 99.697553,
+  "test": 99.862524
+ },
+ "Softmax \u00b7 Fashion-MNIST": {
+  "train": 88.324,
+  "val": 84.19,
+  "test": 83.29
+ },
+ "Softmax \u00b7 Rice": {
+  "train": 99.880854,
+  "val": 99.862524,
+  "test": 99.835029
+ },
+ "Logistic \u00b7 Rice": {
+  "train": 99.816699,
+  "val": 99.642563,
+  "test": 99.780038
+ }
+}
